@@ -1,0 +1,15 @@
+<suite name="TestSuiteC">
+<test name="Home Page Links">
+<classes>
+<class name="unicodeTech.TestSuiteC.HomePageLinks"></class>
+</classes>
+
+</test>
+<test name="Search Product">
+<classes>
+<class name="unicodeTech.TestSuiteC.SearchProduct"></class>
+</classes>
+
+</test>
+
+</suite>

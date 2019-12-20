@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10094" started-at="2019-08-05T03:23:55Z" finished-at="2019-08-05T03:24:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10094" started-at="2019-08-05T03:23:55Z" finished-at="2019-08-05T03:24:05Z">
+      <class name="unicodeTech.TestSuiteC.SearchProduct">
+        <test-method status="PASS" signature="checkTestSuite()[pri:0, instance:unicodeTech.TestSuiteC.SearchProduct@704a52ec]" name="checkTestSuite" is-config="true" duration-ms="7504" started-at="2019-08-05T08:53:47Z" finished-at="2019-08-05T08:53:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTestSuite -->
+        <test-method status="PASS" signature="checkTestCase()[pri:0, instance:unicodeTech.TestSuiteC.SearchProduct@704a52ec]" name="checkTestCase" is-config="true" duration-ms="0" started-at="2019-08-05T08:53:55Z" finished-at="2019-08-05T08:53:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTestCase -->
+        <test-method status="PASS" signature="testSearchProduct(java.lang.String)[pri:0, instance:unicodeTech.TestSuiteC.SearchProduct@704a52ec]" name="testSearchProduct" duration-ms="2023" started-at="2019-08-05T08:53:55Z" data-provider="getTestDataFromXLS" finished-at="2019-08-05T08:53:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[samsung]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchProduct -->
+        <test-method status="PASS" signature="testSearchProduct(java.lang.String)[pri:0, instance:unicodeTech.TestSuiteC.SearchProduct@704a52ec]" name="testSearchProduct" duration-ms="1705" started-at="2019-08-05T08:53:57Z" data-provider="getTestDataFromXLS" finished-at="2019-08-05T08:53:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sony]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchProduct -->
+        <test-method status="PASS" signature="testSearchProduct(java.lang.String)[pri:0, instance:unicodeTech.TestSuiteC.SearchProduct@704a52ec]" name="testSearchProduct" duration-ms="1685" started-at="2019-08-05T08:53:58Z" data-provider="getTestDataFromXLS" finished-at="2019-08-05T08:54:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchProduct -->
+        <test-method status="PASS" signature="testSearchProduct(java.lang.String)[pri:0, instance:unicodeTech.TestSuiteC.SearchProduct@704a52ec]" name="testSearchProduct" duration-ms="1842" started-at="2019-08-05T08:54:00Z" data-provider="getTestDataFromXLS" finished-at="2019-08-05T08:54:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[watch]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchProduct -->
+        <test-method status="PASS" signature="testSearchProduct(java.lang.String)[pri:0, instance:unicodeTech.TestSuiteC.SearchProduct@704a52ec]" name="testSearchProduct" duration-ms="2798" started-at="2019-08-05T08:54:02Z" data-provider="getTestDataFromXLS" finished-at="2019-08-05T08:54:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lenovo]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchProduct -->
+      </class> <!-- unicodeTech.TestSuiteC.SearchProduct -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

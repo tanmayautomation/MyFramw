@@ -1,0 +1,15 @@
+<suite name="TestSuiteA">
+<test name="Validate User Test">
+<classes>
+<class name="unicodeTech.TestSuiteA.ValidateUser"></class>
+</classes>
+
+</test>
+<test name="Change Password Test">
+<classes>
+<class name="unicodeTech.TestSuiteA.ChangePassword"></class>
+</classes>
+
+</test>
+
+</suite>

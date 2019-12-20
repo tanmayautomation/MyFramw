@@ -1,0 +1,15 @@
+<suite name="TestSuiteB">
+<test name="Menu Testing">
+<classes>
+<class name="unicodeTech.TestSuiteB.MenuTesting"></class>
+</classes>
+
+</test>
+<test name="New Product Table Values">
+<classes>
+<class name="unicodeTech.TestSuiteB.NewProductTable"></class>
+</classes>
+
+</test>
+
+</suite>

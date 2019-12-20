@@ -1,0 +1,9 @@
+<suite name="Project Name- Release Name- Release Date">
+<suite-files>
+<suite-file path="./src/main/resources/unicodeTech/testrunner/TestSuiteA.xml"></suite-file>
+<suite-file path="./src/main/resources/unicodeTech/testrunner/TestSuiteB.xml"></suite-file>
+<suite-file path="./src/main/resources/unicodeTech/testrunner/TestSuiteC.xml"></suite-file>
+
+</suite-files>
+
+</suite>
